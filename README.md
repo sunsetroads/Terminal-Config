@@ -4,7 +4,7 @@ Configuring the terminal of mac using a shell script, contains Iterm zsh and som
 **Install**
 
 ```
-git clone https://github.com/znvy/terminal-config.git
+git@github.com:sunsetroads/terminal-config.git
 ```
 
 ```
