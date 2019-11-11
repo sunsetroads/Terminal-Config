@@ -1,17 +1,19 @@
 # Teiminal-Config
-Configuring the terminal of mac using a shell script, contains Iterm zsh and some custom shortcut command in .zshrc
 
-**Install**
+使用脚本快速配置一个好用的终端，包含 .oh-my-zsh iTerm 和一些命令 alias
 
-```
-git clone git@github.com:sunsetroads/terminal-config.git
-```
+**安装**
 
 ```
-cd terminal-config
+git clone git@github.com:sunsetroads/Teiminal-Config.git
+```
+
+```
+cd Teiminal-Config
 ```
 
 ```
 ./install.h
 ```
-**Then open the Iterm.app**
+
+*PS*：使用时在 .gitconfig 中将 git 用户名和邮箱修改为你自己的。
