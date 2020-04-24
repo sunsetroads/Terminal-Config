@@ -4,6 +4,8 @@
 
 **安装**
 
+打开终端，复制下面的命令并执行
+
 ```
 git clone git@github.com:sunsetroads/Terminal-Config.git&&cd Terminal-Config&&./install.sh
 ```
