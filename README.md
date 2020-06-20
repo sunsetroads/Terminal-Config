@@ -7,7 +7,7 @@
 打开终端，复制下面的命令并执行
 
 ```
-git clone git@github.com:sunsetroads/Terminal-Config.git&&cd Terminal-Config&&./install.sh
+git clone https://github.com/sunsetroads/Terminal-Config.git/Terminal-Config.git&&cd Terminal-Config&&./install.sh
 ```
 
 *PS*：使用时在 .gitconfig 中将 git 用户名和邮箱修改为你自己的。
